@@ -12,11 +12,8 @@ Data Analyst | Python • SQL • Power BI • Excel
 <a href="abdulrhmanapodeep@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="abdulrhman-apodeep-088b6224b">
+<a href="www.linkedin.com/in/abdulrhman-apodeep-088b6224b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/your-github-Apodeep">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
