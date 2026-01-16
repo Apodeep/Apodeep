@@ -24,7 +24,7 @@ Data Analyst | Python • SQL • Power BI • Excel
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst passionate about turning data into actionable insights  
+- 📊 Data Analyst about turning data into actionable insights  
 - 🐍 Strong experience with **Python** for data analysis and automation  
 - 🧠 Skilled in **SQL** for data extraction and transformation  
 - 📈 Creating interactive dashboards using **Power BI**  
